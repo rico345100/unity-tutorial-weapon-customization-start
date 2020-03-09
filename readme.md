@@ -1,5 +1,8 @@
 # Basic Resources for Unity Weapon Customization Tutorial
 Basic resources to follow this tutorial: 
+- [Part 1](https://youtu.be/7jBEPU-FW7k)
+- [Part 2](https://youtu.be/AV3TQWmZXmg)
+- [Part 3](https://youtu.be/SO7np29MQSA)
 
 This package include these:
 - Weapon object with customizable parts
